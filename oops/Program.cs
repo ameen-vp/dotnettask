@@ -48,6 +48,8 @@ public class Animal
         public static void Main()
         {
             Animal.Dog ameen= new Animal.Dog("Bread", 3, "Goldenrivever");
+            Animal.Cat = new Animal.Cat ("cat",2,);
+            
             ameen.Speak();
         ameen.Americanbreas();
         }
